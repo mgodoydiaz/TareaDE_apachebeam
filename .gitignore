@@ -1,0 +1,5 @@
+# directorios de pycache
+__pycache__/
+
+# archivos de salida temporalmente
+output/
