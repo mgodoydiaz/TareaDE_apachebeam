@@ -22,5 +22,5 @@ conda activate beam_env
 ## Ejecutar el pipeline
 Ejemplo con argumentos por consola:
 ```bash
-python scripts/pipeline.py --input_path data --output_path output
+python scripts/pipeline.py --input_path data/desafio1 --output_path output
 ```

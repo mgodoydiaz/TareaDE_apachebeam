@@ -4,12 +4,10 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - pip
-  - pandas
   - numpy
-  - ipykernel
   - jupyter
-  - matplotlib
+  - ipykernel
+  - pandas
+  - pip
   - pip:
     - apache-beam
-    

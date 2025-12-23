@@ -1,6 +1,4 @@
-pandas
-numpy
-ipykernel
-jupyter
-matplotlib
 apache-beam
+numpy
+pandas
+jupyter
