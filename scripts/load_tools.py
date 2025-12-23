@@ -40,5 +40,3 @@ def load_csv_files(pipeline, file_path):
         | "ParseCsv"
         >> beam.Map(lambda line: dict(zip(fieldnames, next(csv.reader([line])))))
     )
-
-print("Tools loaded successfully.")
