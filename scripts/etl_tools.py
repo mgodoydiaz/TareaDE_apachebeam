@@ -3,7 +3,6 @@
 import csv
 import json
 import os
-import sys
 import apache_beam as beam
 
 def load_json_files(pipeline, file_path):
